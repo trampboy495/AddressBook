@@ -1,3 +1,9 @@
 # AddressBook
-simple Address Book java swing application performing all basic cred operations and file handling
-can be improved further and can be made more efficient any suggestions and modifications are welcomed
+Simple Address Book java swing application performing all basic cred and file handling operations.
+For gui part I am using Java Swing Components and For File Handling, basic java IO file opeartions.
+The object of POJO class are stored in linked list which is not a predefined java Linkedlist.
+I have tired to build code using less predefined utilities as possible.
+I am storing data in json format and using gson library for it. 
+Program can be improved further and suggestions for that are welcomed. 
+
+
